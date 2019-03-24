@@ -1,0 +1,6 @@
+#1/bin/bash
+
+echo No elo z kad jestes?
+read cc1
+curl wttr.in/$cc1
+curl wttr.in/$cc1 > Pogoda

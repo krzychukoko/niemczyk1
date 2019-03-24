@@ -1,0 +1,5 @@
+#1/bin/bash
+
+echo No elo kto ty?
+read OwO
+echo $OwO, milo mi Ciebie poznac!
